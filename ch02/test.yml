@@ -1,0 +1,9 @@
+name: dip
+channels:
+  - defaults
+dependencies:
+  - opencv
+  - matplotlib
+  - pillow
+  - scikit-image
+prefix: C:\Users\kjm22\miniconda3\envs\dip
